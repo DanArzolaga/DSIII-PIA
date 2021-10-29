@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">myAnimeDB</string>
+    <string name="all">TODO</string>
+    <string name="name">Dragon Ball Super</string>
+    <string name="year">2017</string>
+    <string name="genre">Genero: Accion, Aventura, Comedia</string>
+    <string name="episode">Episodios: 131</string>
+    <string name="description">El dios de la Destrucción ha despertado, y se está dedicando a aniquilar planetas y acaba de descubrir la Tierra. Cuando lo descubre, el guerrero Goku pide ayuda de sus amigos para convertirse en un legendario Super Saiyajin y poder derrotarlo.</string>
+    <string name="form_title">Nuevo Anime</string>
+    <string name="name_url">Url Imagen</string>
+    <string name="name_description">Descripción</string>
+    <string name="name_year">Año</string>
+    <string name="name_episode">Episodios</string>
+    <string name="name_genre">Genero</string>
+    <string name="name_name">Nombre</string>
+    <string name="title_add">Nuevo Anime</string>
+    <string name="title_edit">Datos del Anime</string>
+    <string name="save">Guardar</string>
+    <string name="txtGenre">Selecciona el genero</string>
+    <string name="txtEmail">Correo</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="home">Inicio</string>
+    <string name="favorites">Favoritos</string>
+    <string name="add">Nuevo</string>
+    <string name="account">Cuenta</string>
+    <string name="search">Buscar</string>
+
+</resources>
